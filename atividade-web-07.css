@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*estilo do formulario*/
+h1{
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-family: Bahnschrift;
+    border: lawngreen;
+    border-style: inset;
+}
+
+
+form{
+    border: lawngreen;
+    border-style: inset;
+    line-height: 20px;
+    color: white;
+    background-color: green;
+    font-family: Bahnschrift;
+}
