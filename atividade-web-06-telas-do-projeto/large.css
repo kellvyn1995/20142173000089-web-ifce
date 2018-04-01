@@ -1,0 +1,17 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    width: 340px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 30px;
+    float: left;
+    background-color: #5459C1;
+    box-sizing: border-box;
+    padding-left: 10px;
+    border-radius: 25px;
+}
