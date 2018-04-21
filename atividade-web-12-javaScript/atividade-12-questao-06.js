@@ -1,8 +1,10 @@
-function caixa1(){
-    documento . getElementById (""). innerHTML  =  " Primeira caixa ativada " ;
+
+function Enviar1()
+{
+    document.getElementById("teste").innerHTML = 'primeira caixa activada';
 }
 
-
-function caixa2(){
-    documento . getElementById ("q06"). innerHTML  =  " Perdeu o foco " ;
+function Enviar2()
+{
+    document.getElementById("teste").innerHTML = 'perdeu o foco';
 }

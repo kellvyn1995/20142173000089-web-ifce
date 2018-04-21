@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="630da2c3-a47d-4f13-9bb1-ad81f75fe592" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-08/atiidade-08.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-08/atividade-08.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-01-stilo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-01.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-02.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-02.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-03.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-03.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-04.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-04.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/atividade-web-bootstrap/3colunas.html" />
-      <change beforePath="$PROJECT_DIR$/atividade-web-06-telas-do-projeto/index.css" afterPath="$PROJECT_DIR$/atividade-web-06-telas-do-projeto/index.css" />
-      <change beforePath="$PROJECT_DIR$/atividade-web-06-telas-do-projeto/index.html" afterPath="$PROJECT_DIR$/atividade-web-06-telas-do-projeto/index.html" />
+      <change beforePath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.html" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.html" />
+      <change beforePath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.js" afterPath="$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,8 +37,8 @@
       <file leaf-file-name="atividade-12-questao-06.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="136">
+              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -115,7 +102,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -198,15 +185,15 @@
       <workItem from="1522523401776" duration="14835000" />
       <workItem from="1522686081005" duration="3525000" />
       <workItem from="1523984015459" duration="2187000" />
-      <workItem from="1524258848544" duration="14466000" />
+      <workItem from="1524258848544" duration="15174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53931000" />
+    <option name="totallyTimeSpent" value="54639000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16565809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -515,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/atividade-web-12-javaScript/atividade-12-questao-06.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding />
         </state>
       </provider>
