@@ -32,6 +32,13 @@
 
             });
 
+            $("veramare").click(function () {
+                if("background" == "#f00" ) {
+                    $("#box").css("background","#74ff2d");
+                } else
+                    $("#box").css("background","#ffff2c");
+            });
+
         });
 
 
@@ -43,7 +50,7 @@
 <p>Olá, bem vindo ao meu site<span>desapego.com.</span></p>
 <p id="test"> +++ Site com cookies configurados +++</p>
 <p id="vermelho">Clique aqui para mudar para cor vermelha.</p>
-<p>Clique aqui para alterar entre a cor verde e amarelo</p>
+<p id="veramare">Clique aqui para alterar entre a cor verde e amarelo</p>
 
 <button>Clique me AJAX GET</button>
 <button>Clique me AJAX POST</button>
