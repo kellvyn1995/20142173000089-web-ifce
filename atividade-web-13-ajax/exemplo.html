@@ -3,20 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <title>ajax</title>
-    <script src="js/jquery-migrate-master/test/data/jquery-2.2.3.js"></script>
+    <!--<script src="js/jquery-migrate-master/test/data/jquery-2.2.3.js"></script>
     <script src="js/cycle-master/jquery.cycle.lite.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>-->
+    <style type="text/css">
+        #box {
+            background:#ccc;
+            width:300px;
+            height:200px;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-    function EsconderMensagem(){
-    $("#Mensagem").hide();
-    }
+    <script language="JavaScript" type="text/javascript">
+        $(document).ready(function(){
+            $("#test").hide();
+        });
+
+        $(document).ready(function(){
+
+            /* ao clicar na div com id="box" executa a função */
+            $("#vermelho").click(function(){
+
+                /* a função muda o background da div com id="box" */
+                $("#box").css("background","#f00");
+
+            });
+
+        });
+
+
+    </script>
+
 </head>
-<body>
+<body id="box">
+
 <p>Olá, bem vindo ao meu site<span>desapego.com.</span></p>
-<p id=”cookies”>+++ Site com cookies configurados +++</p>
-<p>Clique aqui para mudar para cor vermelha.</p>
+<p id="test"> +++ Site com cookies configurados +++</p>
+<p id="vermelho">Clique aqui para mudar para cor vermelha.</p>
 <p>Clique aqui para alterar entre a cor verde e amarelo</p>
 
 <button>Clique me AJAX GET</button>
